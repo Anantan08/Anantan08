@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anantan08
+- 👋 Hi, I’m @Anantan LK
 - 👀 I’m interested in Data Science jobs
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
